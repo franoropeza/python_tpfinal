@@ -1,4 +1,4 @@
-# Trabajo Practico Final - Loteria de Salta
+# Trabajo Practico Final - Python
 
 Este repositorio contiene el trabajo practico final del curso de Python.
 
